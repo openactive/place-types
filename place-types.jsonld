@@ -1,0 +1,100 @@
+{
+  "@context": "https://openactive.io/",
+  "id": "https://openactive.io/place-types",
+  "title": "OpenActive Place Type list",
+  "description": "This document describes the OpenActive Place Type list.",
+  "type": "ConceptScheme",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "concept": [
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#7f17c97e-2e6f-4b75-a4ac-6b0faba92f34",
+      "prefLabel": "Arena"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#d9ecbe50-3b42-478d-a259-ea290628edf1",
+      "prefLabel": "Beach"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#228ba22c-ed65-4f1d-96c5-4df5b027cfc9",
+      "prefLabel": "College"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#c09d81e5-f1f9-4be4-a882-4089ab95c151",
+      "prefLabel": "Community Venue"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#16b45c17-39a2-4a68-b527-856c3bdbabee",
+      "prefLabel": "Field"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#55058a7b-f2f7-4209-a391-774d57c47130",
+      "prefLabel": "Gym"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#93f1e85d-a58f-47e0-9e15-891d0f6a0248",
+      "prefLabel": "Ice Rink"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#89a263e2-3925-4add-81cf-a0fbdf9542ad",
+      "prefLabel": "Leisure Centre"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#dd5f784e-e61c-4ed4-b8ec-de46cfbee329",
+      "prefLabel": "Open Space"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#a628526c-b5f2-4da6-845b-7a31c734f5c9",
+      "prefLabel": "Outdoor Courts"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#505ccd5e-d04c-4094-899f-2872e863e3ca",
+      "prefLabel": "Park"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#386967b5-2dba-440d-b06d-dea1b05a72b7",
+      "prefLabel": "Pitch"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#c3317d73-7588-4cc0-ad17-274dc71f9a50",
+      "prefLabel": "Primary School"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#87f0c408-c868-4fb6-b29d-3cac53f08db0",
+      "prefLabel": "Secondary School"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#7b551b0e-d124-4ee4-8a8c-f6ee16ca1b4f",
+      "prefLabel": "Sports Hall"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#09576fe0-d2de-46c2-8ddc-5dc226750a82",
+      "prefLabel": "Swimming Pool"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#f9b15bc4-bee5-4bc0-910d-4e32b8d4610a",
+      "prefLabel": "University"
+    },
+    {
+      "type": "Concept",
+      "id": "https://openactive.io/place-types#7184afde-c32a-4b8a-98f3-27277f591e71",
+      "prefLabel": "Waterpark"
+    }
+  ]
+}
