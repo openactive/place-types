@@ -39,4 +39,3 @@ Please see the [spreadsheet](https://docs.google.com/spreadsheets/d/1R_LiXnTXsUW
 ## Licence
 
 The documentation and data in this repository is published under the [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
